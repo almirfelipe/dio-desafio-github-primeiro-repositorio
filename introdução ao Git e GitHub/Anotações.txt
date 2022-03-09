@@ -1,0 +1,3 @@
+link para baixar o git:  https://gitforwindows.org/
+
+esse curso é uma introdução sobre o git e github
